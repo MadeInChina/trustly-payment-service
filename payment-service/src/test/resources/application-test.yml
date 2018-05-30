@@ -1,0 +1,9 @@
+trustly.successURL: http://192.168.131.239:8008/hedvig/trigger/notification?status=SUCCESS
+trustly.failURL: https://hedvig.com/trustly/fail
+trustly.privateKeyPath: "src/main/resources/private.pem"
+trustly.privateKeyPassword: ""
+trustly.username: "test"
+trustly.password: "test"
+trustly.notificationURL: "https://test"
+
+spring.jpa.hibernate.ddl-auto: create
